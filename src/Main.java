@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("привет привет, мир мир");
+        System.out.println("pis");
 //Задача 1
 for (int i = 0; i <= 10; i = i + 1) {
     System.out.println(i);
